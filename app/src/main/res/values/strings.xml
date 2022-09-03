@@ -7,5 +7,5 @@
         <item>Average Speed</item>
         <item>Calories Burned</item>
     </string-array>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyABvGRHbq8n_q2Uiex80f4qNQEVfAlUnQ0</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Enter your own Google Maps API key</string>
 </resources>
